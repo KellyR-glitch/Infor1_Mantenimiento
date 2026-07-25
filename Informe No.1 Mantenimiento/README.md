@@ -1,7 +1,7 @@
 Proyecto de Mantenimiento Preventivo de Hardware
 
  Descripción
-Este repositorio contiene los materiales desarrollados para el proyecto de mantenimiento preventivo de hardware realizado en una laptop Chromebook.
+Este repositorio contiene los materiales desarrollados para el proyecto de mantenimiento preventivo de hardware realizado .
 
  Contenido
 -  Manual Técnico
